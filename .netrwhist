@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/varun/15641/15641/project1'
+let g:netrw_dirhist_2='/home/varun/15641/15641'
+let g:netrw_dirhist_3='/home/varun/15641/15641/project1/Project1Resources/project1_cp1_starter'
+let g:netrw_dirhist_4='/home/varun/15641/15641/project1/liso'
+let g:netrw_dirhist_5='/home/varun/15641/15641/project1/liso/inc'
