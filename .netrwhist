@@ -1,7 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/varun/15641/15641/project1'
 let g:netrw_dirhist_2='/home/varun/15641/15641'
 let g:netrw_dirhist_3='/home/varun/15641/15641/project1/Project1Resources/project1_cp1_starter'
 let g:netrw_dirhist_4='/home/varun/15641/15641/project1/liso'
 let g:netrw_dirhist_5='/home/varun/15641/15641/project1/liso/inc'
+let g:netrw_dirhist_6='/home/varun/.vim/.git'
+let g:netrw_dirhist_7='/home/varun/641p2/641p2/src/conf'
+let g:netrw_dirhist_8='/home/varun/641_1/src/static'
+let g:netrw_dirhist_9='/home/varun/641_2/src/static'

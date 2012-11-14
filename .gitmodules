@@ -13,7 +13,6 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/vim-scripts/The-NERD-tree.git
-
-[submodule "bundle/ropevim"]
-	path = bundle/ropevim
+[submodule "bundle/ropevim1"]
+	path = bundle/ropevim1
 	url = https://github.com/sontek/rope-vim.git
